@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div#container{
+    width: 30%;
+    margin: 100px auto;
+}
+#container h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+#container p{
+    text-align: center;
+}
